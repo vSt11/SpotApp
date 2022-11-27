@@ -19,4 +19,6 @@ Tools chosen (add tools that you wish to use in order to develop the app) :
 - The core of the app will be written in Kotlin, since it's increasingly used for android apps instead of Java
 - The backend will rely on the Spotify API : "The Spotify Web API is based on REST principles. Data resources are accessed via standard HTTPS requests in UTF-8 format to an API endpoint. Where possible, Web API uses appropriate HTTP verbs for each action : GET, POST, DELETE, PUT.
 
+HELP US 
+You can join our Discord in order to help us contribute this project : https://discord.gg/ktyxcCRa
 
